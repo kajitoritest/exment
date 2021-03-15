@@ -1,5 +1,5 @@
 {
-    "name": "exceedone/exment",
+    "name": "kajitoritest/exment",
     "description": "Management for Product, Client, Contracts, Subscription, ...",
     "type": "library",
     "keywords": ["CMS", "SFA", "Dynamic Table", "Free", "Custom Database", "Custom Table"],
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Exceed One Co.,Ltd.",
-            "homepage": "https://www.exceedone.co.jp/"
+            "homepage": "https://www.kajitoritest.co.jp/"
         },
         {
             "name": "Hiroshi Sato",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=7.2.0",
-        "exceedone/laravel-admin": "~2.0",
+        "kajitoritest/laravel-admin": "~2.0",
         "laravel/framework": "~6.20",
         "laravelcollective/html": "~6.2",
         "laravel/helpers": "~1.4",
